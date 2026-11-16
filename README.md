@@ -61,26 +61,33 @@ A C guessing game that generates a random number and guides you until you find i
   <img src="https://skillicons.dev/icons?i=c,html,css,js,typescript,react,git,github,vscode" alt="C, HTML, CSS, JavaScript, TypeScript, React, Git, GitHub, VS Code">
 </p>
 
-## Languages I’ve used
+## Languages in my public repositories
+
+<p align="center">
+  <a href="https://github.com/meenal629-blip?tab=repositories">
+    <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C">
+  </a>
+  <a href="https://github.com/meenal629-blip?tab=repositories">
+    <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML">
+  </a>
+</p>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2800&pause=900&color=2EA043&center=true&vCenter=true&width=460&lines=Built+with+curiosity;Learning+one+language+at+a+time;My+code%2C+my+journey" alt="Animated message about my coding journey" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=meenal629-blip&layout=donut-vertical&langs_count=8&theme=github_dark&hide_border=true&title_color=2ea043&text_color=ffffff&bg_color=0d1117" alt="Live breakdown of languages detected in my public repositories" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=meenal629-blip&layout=compact&langs_count=8&card_width=420&theme=github_dark&hide_border=true&title_color=2ea043&text_color=ffffff&bg_color=0d1117" width="420" alt="Most used languages in my public GitHub repositories">
 </div>
 
 <p align="center">
-  <sub>Language breakdown updates as GitHub detects languages in my public repositories.</sub>
+  <sub>The chart is generated from GitHub repository language data. Badges above provide a quick visual fallback if the chart service is temporarily unavailable.</sub>
 </p>
 
 ## GitHub activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=meenal629-blip&show_icons=true&theme=github_dark&hide_border=true&title_color=2ea043&icon_color=2ea043&text_color=ffffff&bg_color=0d1117&count_private=true" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=meenal629-blip&show_icons=true&theme=github_dark&hide_border=true&title_color=2ea043&icon_color=2ea043&text_color=ffffff&bg_color=0d1117" alt="GitHub stats">
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=meenal629-blip&theme=github-dark&hide_border=true&background=0d1117&stroke=2ea043&ring=2ea043&fire=2ea043&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff" alt="GitHub streak stats" />
+  <img src="https://streak-stats.demolab.com/?user=meenal629-blip&theme=github-dark&hide_border=true&background=0d1117&stroke=2ea043&ring=2ea043&fire=2ea043&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff" alt="GitHub streak stats">
 </div>
 
 <div align="center">
