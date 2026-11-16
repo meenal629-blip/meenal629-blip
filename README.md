@@ -17,7 +17,7 @@
 
 ## About me
 
-Hi! I'm Meenal, a developer who enjoys turning ideas into real projects and learning something new along the way. I like exploring how things work, building practical experiences, and improving a little with every project.
+Hi! I'm Meenal, a developer who enjoys turning ideas into real projects and learning something new along the way. I like exploring how things work, building practical experiences, and improving my skills through hands-on work.
 
 - 🚀 **Building:** projects that are useful, thoughtful, and fun to use
 - 🌱 **Learning:** programming, web development, and better ways to build
@@ -64,8 +64,12 @@ A C guessing game that generates a random number and guides you until you find i
 ## GitHub activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=meenal629-blip&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&title_color=2ea043&icon_color=2ea043&cache_seconds=86400" height="165" alt="GitHub stats card">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=meenal629-blip&layout=compact&theme=github_dark&hide_border=true&title_color=2ea043&cache_seconds=86400" height="165" alt="Top languages card">
+  <img src="https://github-readme-stats.vercel.app/api?username=meenal629-blip&show_icons=true&theme=github_dark&hide_border=true&title_color=2ea043&icon_color=2ea043&text_color=ffffff&bg_color=0d1117" alt="GitHub Stats" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=meenal629-blip&layout=compact&theme=github_dark&hide_border=true&title_color=2ea043&text_color=ffffff&bg_color=0d1117" alt="Top Languages" height="180" />
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=meenal629-blip&theme=github-dark&hide_border=true&background=0d1117&stroke=2ea043&ring=2ea043&fire=2ea043&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=2ea043&sideLabels=ffffff" alt="GitHub Streak" />
 </div>
 
 <div align="center">
