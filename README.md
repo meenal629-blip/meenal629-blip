@@ -64,18 +64,19 @@ A C guessing game that generates a random number and guides you until you find i
 ## Languages I’ve used
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=meenal629-blip&layout=compact&count_private=true&langs_count=10&theme=github_dark&hide_border=true&title_color=2ea043&text_color=ffffff&bg_color=0d1117" alt="Languages used by Meenal Choudhary" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2800&pause=900&color=2EA043&center=true&vCenter=true&width=460&lines=Built+with+curiosity;Learning+one+language+at+a+time;My+code%2C+my+journey" alt="Animated message about my coding journey" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=meenal629-blip&layout=donut-vertical&langs_count=8&theme=github_dark&hide_border=true&title_color=2ea043&text_color=ffffff&bg_color=0d1117" alt="Live breakdown of languages detected in my public repositories" />
 </div>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Languages%20used-2-2ea043?style=for-the-badge&logo=github&logoColor=white" alt="2 languages used" />
+  <sub>Language breakdown updates as GitHub detects languages in my public repositories.</sub>
 </p>
 
 ## GitHub activity
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=meenal629-blip&show_icons=true&theme=github_dark&hide_border=true&title_color=2ea043&icon_color=2ea043&text_color=ffffff&bg_color=0d1117&count_private=true" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=meenal629-blip&layout=compact&theme=github_dark&hide_border=true&title_color=2ea043&text_color=ffffff&bg_color=0d1117" alt="Top languages" />
 </div>
 
 <div align="center">
