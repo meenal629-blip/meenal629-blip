@@ -64,8 +64,8 @@ A C guessing game that generates a random number and guides you until you find i
 ## GitHub activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=meenal629-blip&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&title_color=2ea043&icon_color=2ea043" height="165" alt="GitHub stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=meenal629-blip&layout=compact&theme=github_dark&hide_border=true&title_color=2ea043" height="165" alt="Top languages">
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=meenal629-blip&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&title_color=2ea043&icon_color=2ea043" height="165" alt="GitHub stats">
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=meenal629-blip&layout=compact&theme=github_dark&hide_border=true&title_color=2ea043" height="165" alt="Top languages">
 </div>
 
 <div align="center">
