@@ -2,7 +2,9 @@
 
 # Hey, I'm Meenal Choudhary 👋
 
-### Building useful things with curiosity, code, and a focus on simple experiences.
+### Curious builder · lifelong learner · making useful things one project at a time
+
+**Pronouns:** she/her
 
 <a href="https://github.com/meenal629-blip?tab=repositories">
   <img src="https://img.shields.io/badge/Explore%20my%20projects-2ea043?style=for-the-badge&logo=github&logoColor=white" alt="Explore my projects">
@@ -17,11 +19,13 @@
 
 ## About me
 
-I build practical projects, explore new tools, and turn ideas into simple experiences people can enjoy.
+Hi! I'm Meenal, a developer who enjoys turning ideas into real projects and learning something new along the way. I like exploring how things work, building practical experiences, and improving a little with every project.
 
-- 🚀 **Build:** useful projects, from small games to web experiences
-- 📚 **Learn:** programming, web development, and better workflows
-- ✨ **Improve:** clear interfaces and maintainable code
+- 🚀 **Building:** projects that are useful, thoughtful, and fun to use
+- 🌱 **Learning:** programming, web development, and better ways to build
+- 🎨 **Interested in:** creative ideas, simple design, and technology that helps people
+- 🤝 **Open to:** learning, collaboration, and connecting with fellow builders
+- 💬 **Pronouns:** she/her
 
 ## Current focus
 
@@ -71,6 +75,6 @@ A C guessing game that generates a random number and guides you until you find i
 
 ### Thanks for visiting ⭐
 
-If something here catches your eye, feel free to explore my projects or start a conversation.
+If something here catches your eye, feel free to explore my projects or say hello!
 
 </div>
