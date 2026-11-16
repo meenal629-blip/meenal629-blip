@@ -4,8 +4,6 @@
 
 ### Curious builder · lifelong learner · making useful things one project at a time
 
-**Pronouns:** she/her
-
 <a href="https://github.com/meenal629-blip?tab=repositories">
   <img src="https://img.shields.io/badge/Explore%20my%20projects-2ea043?style=for-the-badge&logo=github&logoColor=white" alt="Explore my projects">
 </a>
@@ -25,7 +23,6 @@ Hi! I'm Meenal, a developer who enjoys turning ideas into real projects and lear
 - 🌱 **Learning:** programming, web development, and better ways to build
 - 🎨 **Interested in:** creative ideas, simple design, and technology that helps people
 - 🤝 **Open to:** learning, collaboration, and connecting with fellow builders
-- 💬 **Pronouns:** she/her
 
 ## Current focus
 
