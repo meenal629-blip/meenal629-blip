@@ -2,7 +2,7 @@
 
 # Hey, I'm Meenal Choudhary 👋
 
-### Building practical ideas, learning by doing, and creating projects people can use.
+### Building useful things with curiosity, code, and a focus on simple experiences.
 
 <a href="https://github.com/meenal629-blip?tab=repositories">
   <img src="https://img.shields.io/badge/Explore%20my%20projects-2ea043?style=for-the-badge&logo=github&logoColor=white" alt="Explore my projects">
@@ -17,15 +17,15 @@
 
 ## About me
 
-I enjoy coding, experimenting with ideas, and turning concepts into useful digital experiences.
+I build practical projects, explore new tools, and turn ideas into simple experiences people can enjoy.
 
-- 🚀 **Build:** complete projects with real-world value
-- 📚 **Learn:** web development, UI/UX thinking, and cleaner workflows
-- ✨ **Improve:** simple design, maintainable code, and better user experiences
+- 🚀 **Build:** useful projects, from small games to web experiences
+- 📚 **Learn:** programming, web development, and better workflows
+- ✨ **Improve:** clear interfaces and maintainable code
 
 ## Current focus
 
-> Learning, building, and shipping more meaningful work every week.
+> Keep building, keep learning, and make each project a little better than the last.
 
 ## Featured projects
 
@@ -33,20 +33,20 @@ I enjoy coding, experimenting with ideas, and turning concepts into useful digit
 <tr>
 <td width="50%" valign="top">
 
-### 🌄 [SIKKIM-VISTA](https://github.com/meenal629-blip/SIKKIM-VISTA)
+### 🌄 [SIKKIM-VISTA](https://github.com/Ayushkumar-git-hub/SIKKIM-VISTA)
 
-A travel and experience-focused project inspired by the beauty, places, and stories of Sikkim.
+A web experience celebrating Sikkim, its beautiful places, and its stories.
 
-`Explore` · `Discover` · `Experience`
+`Explore` · `Discover` · `Share`
 
 </td>
 <td width="50%" valign="top">
 
 ### 🎲 [random_number](https://github.com/meenal629-blip/random_number)
 
-A small C-based number guessing game built as a simple, fun project.
+A C guessing game that generates a random number and guides you until you find it.
 
-`Game` · `Logic` · `Practice`
+`C` · `Game` · `Logic`
 
 </td>
 </tr>
@@ -57,20 +57,20 @@ A small C-based number guessing game built as a simple, fun project.
 ## Tools I use
 
 <p>
-  <img src="https://skillicons.dev/icons?i=c,html,css,js,react,python,nodejs,git,github,vscode,vercel,mysql,firebase" alt="C, HTML, CSS, JavaScript, React, Python, Node.js, Git, GitHub, VS Code, Vercel, MySQL, Firebase">
+  <img src="https://skillicons.dev/icons?i=c,html,css,js,typescript,react,git,github,vscode" alt="C, HTML, CSS, JavaScript, TypeScript, React, Git, GitHub, VS Code">
 </p>
 
 ## GitHub activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=meenal629-blip&show_icons=true&theme=github_dark&hide_border=true&title_color=2ea043&icon_color=2ea043" height="165" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=meenal629-blip&layout=compact&theme=github_dark&hide_border=true&title_color=2ea043" height="165" alt="Top languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=meenal629-blip&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&title_color=2ea043&icon_color=2ea043" height="165" alt="GitHub stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=meenal629-blip&layout=compact&theme=github_dark&hide_border=true&title_color=2ea043" height="165" alt="Top languages">
 </div>
 
 <div align="center">
 
 ### Thanks for visiting ⭐
 
-If something here catches your eye, feel free to explore my repos or connect.
+If something here catches your eye, feel free to explore my projects or start a conversation.
 
 </div>
