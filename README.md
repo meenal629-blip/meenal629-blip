@@ -61,15 +61,25 @@ A C guessing game that generates a random number and guides you until you find i
   <img src="https://skillicons.dev/icons?i=c,html,css,js,typescript,react,git,github,vscode" alt="C, HTML, CSS, JavaScript, TypeScript, React, Git, GitHub, VS Code">
 </p>
 
+## Languages I’ve used
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=meenal629-blip&layout=compact&count_private=true&langs_count=10&theme=github_dark&hide_border=true&title_color=2ea043&text_color=ffffff&bg_color=0d1117" alt="Languages used by Meenal Choudhary" />
+</div>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Languages%20used-2-2ea043?style=for-the-badge&logo=github&logoColor=white" alt="2 languages used" />
+</p>
+
 ## GitHub activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=meenal629-blip&show_icons=true&theme=github_dark&hide_border=true&title_color=2ea043&icon_color=2ea043&text_color=ffffff&bg_color=0d1117" alt="GitHub Stats" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=meenal629-blip&layout=compact&theme=github_dark&hide_border=true&title_color=2ea043&text_color=ffffff&bg_color=0d1117" alt="Top Languages" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=meenal629-blip&show_icons=true&theme=github_dark&hide_border=true&title_color=2ea043&icon_color=2ea043&text_color=ffffff&bg_color=0d1117&count_private=true" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=meenal629-blip&layout=compact&theme=github_dark&hide_border=true&title_color=2ea043&text_color=ffffff&bg_color=0d1117" alt="Top languages" />
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=meenal629-blip&theme=github-dark&hide_border=true&background=0d1117&stroke=2ea043&ring=2ea043&fire=2ea043&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=2ea043&sideLabels=ffffff" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=meenal629-blip&theme=github-dark&hide_border=true&background=0d1117&stroke=2ea043&ring=2ea043&fire=2ea043&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff" alt="GitHub streak stats" />
 </div>
 
 <div align="center">
