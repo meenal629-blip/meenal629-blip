@@ -73,10 +73,6 @@ I’m Meenal — a developer who loves turning ideas into small, useful projects
 ## 📈 GitHub activity
 
 <p align="center">
-  <img src="https://img.shields.io/github/commit-activity/y/meenal629-blip/meenal629-blip?label=Commits%20this%20year&style=for-the-badge&color=2ea043" alt="Commits this year" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=meenal629-blip&show_icons=true&theme=github_dark&hide_border=true&title_color=2ea043&icon_color=2ea043&text_color=ffffff&bg_color=0d1117" alt="GitHub stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=meenal629-blip&layout=compact&langs_count=8&theme=github_dark&hide_border=true&title_color=2ea043&text_color=ffffff&bg_color=0d1117" alt="Language stats" />
 </p>
