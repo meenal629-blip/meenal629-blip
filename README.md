@@ -10,7 +10,7 @@
 </p>
 
 <p>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2200&pause=800&color=2EA043&center=true&vCenter=true&width=560&lines=Curious+builder;Frontend+enthusiast;Code+%7C+Create+%7C+Repeat" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2200&pause=800&color=2EA043&center=true&vCenter=true&width=560&lines=Curious+builder;Frontend+enthusiast;Always+learning" alt="Curious builder, frontend enthusiast, always learning" />
 </p>
 
 </div>
@@ -19,7 +19,7 @@
 
 ## 🚀 About me
 
-I’m Meenal — a developer who loves turning ideas into small, useful projects and learning by building. I enjoy clean design, practical problem-solving, and creating experiences that feel thoughtful and fun to use.
+I’m Meenal — a developer who loves turning ideas into small, useful projects and learning by building. I enjoy clean design, practical problem-solving, and creating experiences that feel thoughtful.
 
 - 💡 Building projects that are useful and meaningful
 - 🌱 Learning web development, logic, and design
@@ -60,7 +60,7 @@ I’m Meenal — a developer who loves turning ideas into small, useful projects
 ## 📊 Languages I’ve used
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=meenal629-blip&layout=compact&langs_count=8&theme=github_dark&hide_border=true&title_color=2ea043&text_color=ffffff&bg_color=0d1117" alt="Top languages" width="420" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=meenal629-blip&layout=compact&langs_count=8&theme=github_dark&hide_border=true&title_color=2ea043&text_color=ffffff&bg_color=0d1117" alt="Most used programming languages" />
 </p>
 
 <p align="center">
@@ -72,13 +72,23 @@ I’m Meenal — a developer who loves turning ideas into small, useful projects
 
 ## 📈 GitHub activity
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=meenal629-blip&show_icons=true&theme=github_dark&hide_border=true&title_color=2ea043&icon_color=2ea043&text_color=ffffff&bg_color=0d1117" alt="GitHub stats" />
-</div>
+<p align="center">
+  <strong>Total public commits:</strong>
+  <img src="https://img.shields.io/github/commit-activity/y/meenal629-blip/meenal629-blip?label=commits%20this%20year&style=flat&color=2ea043" alt="Public commits this year" />
+</p>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=meenal629-blip&theme=github-dark&hide_border=true&background=0d1117&stroke=2ea043&ring=2ea043&fire=2ea043&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff" alt="GitHub streak" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=meenal629-blip&show_icons=true&theme=github_dark&hide_border=true&title_color=2ea043&icon_color=2ea043&text_color=ffffff&bg_color=0d1117" alt="GitHub profile statistics" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=meenal629-blip&layout=compact&langs_count=8&theme=github_dark&hide_border=true&title_color=2ea043&text_color=ffffff&bg_color=0d1117" alt="Most used languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=meenal629-blip&theme=github-dark&hide_border=true&background=0d1117&stroke=2ea043&ring=2ea043&fire=2ea043&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=2ea043&sideLabels=ffffff&dates=ffffff" alt="Contribution streak, current streak, and longest streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=meenal629-blip&bg_color=0d1117&color=ffffff&line=2ea043&point=2ea043&area=true&hide_border=true" alt="GitHub contribution activity graph" />
+</p>
 
 ---
 
